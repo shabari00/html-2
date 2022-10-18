@@ -1,0 +1,23 @@
+* {
+  margin: 0%;
+  padding: 0;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 40px;
+}
+h1,
+h2,
+h3,
+ul {
+  margin-top: 10px;
+  text-align: center;
+}
+h2 {
+  background: rgb(217, 217, 241);
+}
+li {
+  font-size: medium;
+}
